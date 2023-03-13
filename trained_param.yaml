@@ -1,0 +1,7 @@
+tau: 0.025, 0.04, 0.05
+# num_expert_paths: 400, 800
+
+# num_steps: 400, 200
+  
+  
+

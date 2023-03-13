@@ -1,0 +1,42 @@
+base: 4
+batch_by_steps: false
+batch_size: 400
+clip_adv: 0.0
+critic_weight: 1.0
+cutoff_agent: 0
+decay_tau: false
+env: DuplicatedInput-v0
+eps_lambda: 0.0
+eviction: rand
+fixed_std: true
+gamma: 0.9
+input_policy_state: true # recurrent
+input_prev_actions: true
+input_time_step: false
+internal_dim: 256
+learning_rate: 0.01
+load_path: None
+max_divergence: 0.5
+max_step: 200
+num_expert_paths: 0
+num_steps: 5000
+prioritize_by: rewards
+recurrent: true
+replay_batch_size: 400
+replay_buffer_alpha: 0.5
+rollout: 10
+sample_policy: spmax
+# saved_path: ./0203-1930
+target_network_lag: 0.95
+# tau: 0.025
+# tf_seed: 57
+train: true
+train_objective: spcl
+# tsaills: true
+unify_episodes: false
+use_online_batch: true
+use_target_values: false
+# use_trust_region: false
+validation_frequency: 100
+value_hidden_layers: 0
+# value_opt: false
