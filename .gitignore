@@ -1,6 +1,3 @@
-logs*/
-expsh/
-check_param/
 .vscode/
 __pycache__/
-0203-1930/
+test/

@@ -185,13 +185,13 @@ sklearn=0.0=pypi_0
 sniffio=1.2.0=pypi_0
 soupsieve=2.3.2.post1=pypi_0
 sqlite=3.38.0=hc218d9a_0
-stack_data=0.2.0=pyhd3eb1b0_0
+stack_data=0.2.0=pyhd3eb1b0_0ß
 tabulate=0.8.10=py38h06a4308_0
-tensorboard=2.8.0=pypi_0
-tensorboard-data-server=0.6.1=pypi_0
-tensorboard-plugin-wit=1.8.1=pypi_0
-tensorflow-estimator=2.6.0=pypi_0
-tensorflow-gpu=2.6.0=pypi_0
+# tensorboard=2.8.0=pypi_0
+# tensorboard-data-server=0.6.1=pypi_0
+# tensorboard-plugin-wit=1.8.1=pypi_0
+# tensorflow-estimator=2.6.0=pypi_0
+# tensorflow-gpu=2.6.0=pypi_0
 termcolor=1.1.0=pypi_0
 terminado=0.13.3=pypi_0
 threadpoolctl=3.1.0=pypi_0

@@ -18,7 +18,7 @@
 For producing or loading expert trajectories in environment.
 """
 
-import tensorflow as tf
+# import tensorflow as tf
 import random
 import os
 import numpy as np
